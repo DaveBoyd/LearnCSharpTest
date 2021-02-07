@@ -1,0 +1,14 @@
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/bin/Debug/netcoreapp3.1/RPGConsoleGame.deps.json
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/bin/Debug/netcoreapp3.1/RPGConsoleGame.runtimeconfig.json
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/bin/Debug/netcoreapp3.1/RPGConsoleGame.runtimeconfig.dev.json
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/bin/Debug/netcoreapp3.1/RPGConsoleGame.dll
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/bin/Debug/netcoreapp3.1/RPGConsoleGame.pdb
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/obj/Debug/netcoreapp3.1/RPGConsoleGame.csprojAssemblyReference.cache
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/obj/Debug/netcoreapp3.1/RPGConsoleGame.AssemblyInfoInputs.cache
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/obj/Debug/netcoreapp3.1/RPGConsoleGame.AssemblyInfo.cs
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/obj/Debug/netcoreapp3.1/RPGConsoleGame.csproj.CoreCompileInputs.cache
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/obj/Debug/netcoreapp3.1/RPGConsoleGame.dll
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/obj/Debug/netcoreapp3.1/RPGConsoleGame.pdb
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/obj/Debug/netcoreapp3.1/RPGConsoleGame.genruntimeconfig.cache
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/obj/Debug/netcoreapp3.1/RPGConsoleGame.csproj.CopyComplete

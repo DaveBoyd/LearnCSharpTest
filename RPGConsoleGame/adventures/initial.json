@@ -1,0 +1,10 @@
+﻿{
+  "GUID": "51F01534-5675-4B90-8628-353436397D34",
+  "Title": "The Duke's' Chalice.",
+  "Description": "This is the starter adventure, have fun.",
+  "CompletionXPReward": 250,
+  "CompletionGoldReward": 100,
+  "MaxLevel": 1,
+  "MinimumLevel" :  1
+
+}

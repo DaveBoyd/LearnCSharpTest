@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pc/O4wvUUGb9GuWsctHhvUk3HdXyckHkgw7XGjwsMHIyiMpybugj+egGK2kphv19vY3Prr4AJWwzMLh77g38ug==",
+  "success": true,
+  "projectFilePath": "/Users/davidboyd/Projects/RPGConsoleGame/RPGConsoleGame/RPGConsoleGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidboyd/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
